@@ -1,0 +1,77 @@
+{
+  "AvailableBooks": [
+    {
+      "Name": "Bottomless Pit",
+      "Author": "Death Grips",
+      "Borrower": "",
+      "Available": null
+    },
+    {
+      "Name": "Fantastic Planet",
+      "Author": "Failure",
+      "Borrower": "",
+      "Available": null
+    },
+    {
+      "Name": "Comfort",
+      "Author": "Failure",
+      "Borrower": "",
+      "Available": null
+    },
+    {
+      "Name": "The Heart Is a Monster",
+      "Author": "Failure",
+      "Borrower": "",
+      "Available": null
+    },
+    {
+      "Name": "Deathconsciousness",
+      "Author": "Have a Nice Life",
+      "Borrower": "",
+      "Available": null
+    },
+    {
+      "Name": "Pretty Hate Machine",
+      "Author": "Nine Inch Nails",
+      "Borrower": "",
+      "Available": null
+    },
+    {
+      "Name": "The Downward Spiral",
+      "Author": "Nine Inch Nails",
+      "Borrower": "",
+      "Available": null
+    },
+    {
+      "Name": "Bad Witch",
+      "Author": "Nine Inch Nails",
+      "Borrower": "",
+      "Available": null
+    },
+    {
+      "Name": "With Teeth (Bonus Tracks)",
+      "Author": "Nine Inch Nails",
+      "Borrower": "",
+      "Available": true
+    },
+    {
+      "Name": "Lost Highway",
+      "Author": "Nine Inch Nails",
+      "Borrower": "",
+      "Available": true
+    },
+    {
+      "Name": "Appeal to Reason",
+      "Author": "Rise Against",
+      "Borrower": "",
+      "Available": null
+    },
+    {
+      "Name": "Doorman",
+      "Author": "Slowthai, Mura Masa",
+      "Borrower": "",
+      "Available": null
+    }
+  ],
+  "UnavailableBooks": []
+}
